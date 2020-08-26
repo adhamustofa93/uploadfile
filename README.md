@@ -1,15 +1,17 @@
-# Light-Fb Installing
+# Gemail-Hacking
 
-$ pkg update && pkg upgrade
 
-$ pkg install git && pkg install python2
+### python script for Hack gmail account brute force 
 
-$ pip2 install requests
+###  What is brute force attack?
+### In brute force attack,script or program try the each and every combination of password probability 
+### to ack victim account.Brute force attack is the only successful method to hack account
+### but this process will take long time depend upon the length of password.
 
-$ pip2 install mechanize
+### git clone https://github.com/zainkhanceh/Gemail-Hacking
+    
+### cd Gemail-Hack
 
-$ git clone https://github.com/KingMrZ17/Light-Fb
+### chmod +x gemailhack.py
 
-$ cd Light-Fb
-
-$ python2 light-fb.py
+### python gemailhack.py
