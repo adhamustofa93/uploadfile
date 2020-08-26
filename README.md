@@ -1,12 +1,15 @@
-# BruteFb
-HACK FACEBOOK DENGAN METODE BRUTEFORCE DI TERMUX
-# Cara Install
-### $ pkg update && pkg upgrade
-## $ pkg install git
-## $ pkg install python
-## $ pip install requests
-## $ pip install bs4
-## $ git clone https://github.com/FR13ND8/BruteFb
-## $ cd BruteFb
-## $ python fb.py
-# OK SEKIAN DARI GUA JANGAN LUPA KLIK BINTANG/STAR
+# Light-Fb Installing
+
+$ pkg update && pkg upgrade
+
+$ pkg install git && pkg install python2
+
+$ pip2 install requests
+
+$ pip2 install mechanize
+
+$ git clone https://github.com/KingMrZ17/Light-Fb
+
+$ cd Light-Fb
+
+$ python2 light-fb.py
