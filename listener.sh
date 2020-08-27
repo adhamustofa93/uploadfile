@@ -1,13 +1,13 @@
 #!/bin/bash
 clear
 echo "
-<-- FadilGanz -->
+<-- IndoSec -->
 ####################
-# Whatsapp Exploit # By Dry_F4DIL4H_ZULF1
-#   Log Listener   # TampanMaut1212@gmail.com
+# Whatsapp Exploit # By ./C3W3KBerB4T4n9
+#   Log Listener   # ceweberbatang59@gmail.com
 ####################
 
-Copyright (c) 2018 Zulfi ganz";
+Copyright (c) 2018 ceweberbatang ganz";
 echo "";
 read -p "Server   : http://" server
 read -p "Log File : " file
