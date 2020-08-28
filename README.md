@@ -1,35 +1,20 @@
-# phish-all
-PERHATIAN !
+#HackFacebook
+#Pergunakanlah Dengan Baik Ya Sobat.. :)
+ #Untuk Jalankan Perintahnya:👇
+ 
+ $apt update && apt upgrade
+ $apt install bash
+ $apt install git
+ $apt install php
+ $git clone https://github.com/MrTamfanX/TamfanFacebook
+ $cd TamfanFacebook
+ $ls
+ $chmod +x *
+ $chmod -R 775 Lib
+ $sh install.sh
+ $sh Tamfan.sh
 
-(tolong sebelum memulai nyalakan hostpot anda dulu agar script bekerja)
-
-(please before starting, turn on your hostpot first so that the script works)
 
 
 
-
-$ pkg update && pkg upgrade
-
-$ pkg install python2
-
-$ pkg install bash
-
-$ pkg install ruby
-
-$ gem install lolcat
-
-$ pkg install figlet
-
-$ pkg install toilet
-
-$ pkg install openssh
-
-$ pkg install php
-
-$ pkg install git
-
-$ git clone https://github.com/reyspeed/phish-all
-
-$ cd phish-all
-
-$ bash croot.sh
+#Peringatan!! Jalankan Script Ini Dengan Benar Jangan Sampai Salah#
