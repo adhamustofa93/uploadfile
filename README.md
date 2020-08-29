@@ -1,20 +1,15 @@
-#HackFacebook
-#Pergunakanlah Dengan Baik Ya Sobat.. :)
- #Untuk Jalankan Perintahnya:👇
- 
- $apt update && apt upgrade
- $apt install bash
- $apt install git
- $apt install php
- $git clone https://github.com/MrTamfanX/TamfanFacebook
- $cd TamfanFacebook
- $ls
- $chmod +x *
- $chmod -R 775 Lib
- $sh install.sh
- $sh Tamfan.sh
-
-
-
-
-#Peringatan!! Jalankan Script Ini Dengan Benar Jangan Sampai Salah#
+# Sensei
+Dark-Fb No Login 100% safe
+<img src="https://github.com/BOT-033/Sensei/blob/master/Screenshot_2020-07-16-00-13-54-17.jpg">
+# Module
+```
+• pip2 install tqdm
+• pip2 install requests
+• pip2 install mechanize
+```
+# Install
+```
+• git clone https://github.com/BOT-033/Sensei
+• cd Sensei
+• python2 main.py
+```
